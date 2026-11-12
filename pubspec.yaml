@@ -1,0 +1,11 @@
+name: voxgait
+description: "Pure Dart procedural foot-stepping IK gait solver: biped, quadruped, and hexapod phase oscillators, parabolic step arcs, support gating, slope tilt adaptation, and pelvis bobbing."
+version: 0.1.0
+repository: https://github.com/soulwax/voxgait
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
